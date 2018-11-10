@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\r\n\ The\ class\ is\ responsible\ for\ reading\ and\ writing\ data\ from\ the\ text\ file.\r\n\r\n\ @author\ Tisa\ Majumder\r\n\ @version\ 21st\ October\ 2018\r\n
+comment1.params=
+comment1.target=FileIO()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FileIO\r\n
+comment2.params=name
+comment2.target=FileIO(java.lang.String)
+comment2.text=\r\n\ Non-Default\ Constructor\ for\ objects\ of\ class\ FileIO\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFileName()
+comment4.params=newFileName
+comment4.target=void\ setFileName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ readFile()
+comment5.text=\r\n\ It\ is\ used\ to\ read\ data\ from\ a\ file\r\n
+comment6.params=result
+comment6.target=void\ writeFile(java.lang.String)
+comment6.text=\r\n\ It\ is\ used\ to\ write\ data\ to\ a\ file\r\n
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\r\n\ This\ class\ is\ used\ to\ perform\ multiple\ validations\ on\ the\ data\ obtained\ from\ the\ user\r\n\r\n\ @author\ Tisa\ Majumder\r\n\ @version\ 21st\ October\ 2018\r\n
+comment1.params=
+comment1.target=Validation()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Validation\r\n
+comment2.params=value
+comment2.target=boolean\ integerCheck(java.lang.String)
+comment2.text=\r\n\ It\ is\ used\ to\ validate\ if\ a\ given\ string\ can\ be\ converted\ to\ integer\r\n\ @param\ value\ The\ string\ entered\r\n\ @return\ true\ if\ the\ string\ is\ valid\ integer\ and\ can\ be\ converted\r\n
+comment3.params=value\ min\ max
+comment3.target=boolean\ rangeCheck(int,\ int,\ int)
+comment3.text=\r\n\ It\ is\ used\ to\ check\ if\ an\ integer\ is\ within\ the\ specified\ limit\r\n\ @param\ value\ integer\ to\ be\ checked\r\n\ @param\ min\ the\ minimum\ value\ of\ the\ integer\r\n\ @param\ max\ the\ maximum\ value\ of\ the\ integer\r\n\ @return\ true\ if\ the\ string\ is\ within\ the\ range\r\n
+comment4.params=value\ min\ max
+comment4.target=boolean\ validString(java.lang.String,\ int,\ int)
+comment4.text=\r\n\ It\ is\ used\ to\ check\ if\ the\ String\ entered\ by\ the\ user\ is\ within\ the\ specified\ limit\r\n\ @param\ value\ The\ string\ entered\r\n\ @param\ min\ the\ minimum\ length\ of\ the\ string\r\n\ @param\ max\ the\ maximum\ length\ of\ the\ string\r\n\ @return\ true\ if\ the\ string\ is\ within\ the\ range\r\n
+numComments=5

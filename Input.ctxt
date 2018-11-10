@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\r\n\ This\ class\ is\ used\ to\ accept\ user\ inputs\r\n\r\n\ @author\ Tisa\ Majumder\r\n\ @version\ 21st\ October\ 2018\r\n
+comment1.params=
+comment1.target=Input()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Input\r\n
+comment2.params=
+comment2.target=boolean\ randomKey()
+comment2.text=\r\n\ It\ is\ used\ to\ check\ if\ there\ is\ a\ next\ line\r\n\ @return\ true\ if\ there\ is\ a\ new\ line\r\n
+comment3.params=message
+comment3.target=java.lang.String\ getInput(java.lang.String)
+comment3.text=\r\n\ It\ is\ used\ to\ read\ the\ data\ from\ the\ console\ that\ is\ entered\ by\ the\ user\r\n\ @return\ string\ that\ is\ entered\ by\ the\ user\r\n
+numComments=4
